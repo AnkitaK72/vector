@@ -1,0 +1,7 @@
+PS C:\Users\ankita.kavathekar\Music\Agiliad> g++ vect.cpp
+PS C:\Users\ankita.kavathekar\Music\Agiliad> .\a.exe     
+enter an element 2
+enter an element 6
+enter an element 8
+enter an element 5
+2 6 8 5 
